@@ -21,18 +21,22 @@ Une fois la longueur est positive ,on génére une liste des nombres aleatoires 
 
 Automatiquement la liste sera envoyée au back pour le test( Appel HTTP en passant par le service GestFormService)
 
-à noter que Intercepteur HTTP developpé gerera les erreur de ces appels.
+à noter que Intercepteur HTTP developpé gérera les erreurs de ces appels.
 
 pour installer les dependences en local ,tappez `npm i `
+
 pour lancer le front  ,tappez`ng serve` 
-l'application sera lancée sur le lien suivant `http://localhost:4200/`
+
+l'application sera lancée sur [le lien suivant](http://localhost:4200/)
+
+NB: les erreurs CORS (Cross-origin resource sharing) ont été traitées en back
 
 # La partie Back: GestFormAPI
 
-Un exemple de code propre(clean-code) et de bonnes approches de l'architecture DDD (Domain driven Design) avec le design Pattern Mediateur. 
+Un exemple de code propre (clean-code) et de bonnes approches de l'architecture DDD (Domain Driven Design) avec le design Pattern Mediateur. 
 
-NB: Vu Que y'a pas d'appel vers un SGBD, le traitement sur les projet Web + API (pas d'entitée) 
+NB: Vu que y'a pas d'appel vers la base de données , le traitement ne passe pas par la couche infrastructure puisque qu'on pas d'entitée.
 
-La liste inserée sera verifié pour ne pas avoir des nombres hors intervalle sinon une exception sera levée(à voir le gherkin pour le test BDD)
+La liste inserée sera verifiée pour ne pas avoir des nombres hors intervalle sinon une exception sera levée(à voir le gherkin pour le test BDD)
 
 
