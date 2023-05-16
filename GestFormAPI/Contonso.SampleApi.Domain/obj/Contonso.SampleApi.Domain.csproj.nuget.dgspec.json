@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj": {}
+    "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj": {
+    "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj",
         "projectName": "Contonso.SampleApi.Domain",
-        "projectPath": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj",
+        "projectPath": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj",
         "packagesPath": "C:\\Users\\khalid.alaoui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khalid.alaoui\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3588,11 +3588,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Web\\Contonso.SampleApi.Web.csproj",
+      "projectUniqueName": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Web\\Contonso.SampleApi.Web.csproj",
       "projectName": "Contonso.SampleApi.Web",
-      "projectPath": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Web\\Contonso.SampleApi.Web.csproj",
+      "projectPath": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Web\\Contonso.SampleApi.Web.csproj",
       "packagesPath": "C:\\Users\\khalid.alaoui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Web\\obj\\",
+      "outputPath": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khalid.alaoui\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3609,11 +3609,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Application\\Contonso.SampleApi.Application.csproj": {
-              "projectPath": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Application\\Contonso.SampleApi.Application.csproj"
+            "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Application\\Contonso.SampleApi.Application.csproj": {
+              "projectPath": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Application\\Contonso.SampleApi.Application.csproj"
             },
-            "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Infrastructure\\Contonso.SampleApi.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Infrastructure\\Contonso.SampleApi.Infrastructure.csproj"
+            "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Infrastructure\\Contonso.SampleApi.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Infrastructure\\Contonso.SampleApi.Infrastructure.csproj"
             }
           }
         }

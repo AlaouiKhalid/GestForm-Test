@@ -1,4 +1,4 @@
-namespace Contonso.SampleApi.Application.Books.Queries.GetBooks;
+namespace Contonso.SampleApi.Application.GestForm.Handlers;
 
 using AutoMapper;
 using Contonso.SampleApi.Application.Common.Abstraction;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZEoToHx/HRCrdkZEo8DL/DjZTrRvhRDVjM3mk/WFcld17/U7/xiiIJK1sMBiBLlLe2AVys0l5q4D9CYYLIJrQQ==",
+  "dgSpecHash": "FUFLGQ4vXKDj4d3t0FPLuiDgS3oyTnBXHeS1b3HAMNkU1dy9ErAkrBhj0w0jjRvxZLjreXikUpP7cpf4RgBUSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Application\\Contonso.SampleApi.Application.csproj",
+  "projectFilePath": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Application\\Contonso.SampleApi.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khalid.alaoui\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\khalid.alaoui\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

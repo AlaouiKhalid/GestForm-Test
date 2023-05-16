@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MqK+urMJIkF9997mpqK/1baO3JfNq1hj38veKXFk06VFt4hyhA9Pco7hLFsPQU3HkSxQddmU8CoyK5qLStVMQw==",
+  "dgSpecHash": "93XBe42i7r8L8YTh5B8SnyOtE62fbHELsqhS61I8H7DatF4lVPK+QAY0yikwhKh8aqYYg8kFGK/MVWd4eTmgKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj",
+  "projectFilePath": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khalid.alaoui\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\khalid.alaoui\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

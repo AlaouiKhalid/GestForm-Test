@@ -4558,11 +4558,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Application\\Contonso.SampleApi.Application.csproj",
+      "projectUniqueName": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Application\\Contonso.SampleApi.Application.csproj",
       "projectName": "Contonso.SampleApi.Application",
-      "projectPath": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Application\\Contonso.SampleApi.Application.csproj",
+      "projectPath": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Application\\Contonso.SampleApi.Application.csproj",
       "packagesPath": "C:\\Users\\khalid.alaoui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Application\\obj\\",
+      "outputPath": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khalid.alaoui\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4579,8 +4579,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj": {
-              "projectPath": "C:\\Users\\khalid.alaoui\\Desktop\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj"
+            "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj": {
+              "projectPath": "C:\\Users\\khalid.alaoui\\Desktop\\Nouveau dossier\\GestForm-Test\\GestFormAPI\\Contonso.SampleApi.Domain\\Contonso.SampleApi.Domain.csproj"
             }
           }
         }
