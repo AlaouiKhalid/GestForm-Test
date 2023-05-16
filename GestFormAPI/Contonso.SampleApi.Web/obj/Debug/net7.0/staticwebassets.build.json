@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eLhNO1TjXzcgtZIXkorQxp/FJHk/vjowEiynZfbMEjI=",
+  "Source": "Contonso.SampleApi.Web",
+  "BasePath": "_content/Contonso.SampleApi.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

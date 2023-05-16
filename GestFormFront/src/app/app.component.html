@@ -1,0 +1,39 @@
+<h2>Test GestForm</h2>
+
+<p>En choisissant une longueur valide de la liste, le bouton de test s'affichera
+</p>
+<p>Une fois vous cliquez, une liste des nombres aléatoires sera générée a la longueur précisée
+</p>
+<p>Pour chaque nombre de la liste le test GestForm sera effectué afin d'afficher un tableau avec le résultat
+</p>
+
+<div class="example-container">
+  <input type="number" placeholder="8" [formControl]="longueur" required>
+  <div *ngIf="longueur.invalid">{{afficherMessageErreur()}}</div>
+  <button *ngIf="longueur.valid" color="accent" [disabled]="longueur.invalid"
+    (click)="lancerGetFormTest(longueur.value!)">Tester</button>
+</div>
+<br>
+
+<div *ngIf="estDispo">
+  <table>
+    <caption>
+      Resultats
+    </caption>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Nombre</th>
+        <th>Resultat</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr *ngFor="let x of items; let index = index;">
+        <td>{{ index +1}}</td>
+        <td>{{ x.number }}</td>
+        <td>{{ x.result }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
